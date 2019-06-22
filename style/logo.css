@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+.fixer {
+	clear: both;
+}
+
+
+
+
+
+
+#main {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+#list {
+	float: left;
+	width: 553px;
+	position: relative;
+}
+#content {
+	position: relative;
+	height: 298px;
+	width: 800px;
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+	font-size: 70px;
+	text-align: center;
+}
+body {
+	margin-top: 45px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-repeat: repeat;
+	background-image: url(../images/background.jpg);
+}
+#listcontent {
+	width: 432px;
+	position: relative;
+	min-height: 298px;
+	background-image: url(../images/content.png);
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
